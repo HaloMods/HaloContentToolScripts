@@ -1,0 +1,32 @@
+GBXModel Impoter v2 by TheGhost
+for 3ds Max v5+ and gmax v1.2
+http://ghost.halomaps.org/bluestreak/gbxmodel/
+as part of Project BlueStreak
+
+Features:												
+- Import any geometry from the tag with many import options
+- Import perfect UVW coordinates and material ID's
+- Setup the max material library for the model's shaders
+- Import model's nodes and/or markers with many options 
+	(nodes/markers are perfectly placed and rotated)
+- Optionally import biped nodes as bone objects
+- Imports vertex weights for a fully rigged model
+
+Instructions: Click the "Load GBXModel" button and navigate to the
+desired GBXModel tag. Select from the import options and press the 
+"Import	GBXModel" button to import the tag.
+
+Submit bugs to TheGhost on the Gearbox Software forums. Visit the
+forums for additional help at http://gbxforums.gearboxsoftware.com.
+Visit the project site (http://ghost.halomaps.org/BlueStreak/) for more
+details on this and other projects.
+
+Copyright (C) 2006 Adam Papamarcos (mailto:papamarcos@gmail.com)
+This program is free software; you can redistribute it and/or modify it
+under the terms of the GNU General Public License as published by the
+Free Software Foundation; either version 2 of the License, or (at your
+option) any later version. This program is distributed in the hope that
+it will be useful, but WITHOUT ANY WARRANTY; without even the implied
+warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See
+the GNU General Public License for more details. A full copy of this
+license is available at http://www.gnu.org/licenses/gpl.txt.

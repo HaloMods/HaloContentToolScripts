@@ -1,0 +1,4 @@
+imports from .physics tag
+sphere gets oriented with forward as +x, up as +z
+adds masspoint attributes rollout to sphere object, viewable in modify panel (only for viewing purposes, at the moment)
+v1.1: corrected bug in attributes - saved scene now reloads without a problem
